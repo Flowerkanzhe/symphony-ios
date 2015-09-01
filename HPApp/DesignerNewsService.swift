@@ -10,11 +10,7 @@ import Alamofire
 
 struct DesignerNewsService {
 
-    // Designer News API Doc: http://developers.news.layervault.com
-    //                    V2: https://github.com/metalabdesign/dn_api_v2
-
-//    private static let baseURL = "http://hacpai.com"
-    private static let baseURL = "http://192.168.1.103:8084"
+    private static let baseURL = "http://hacpai.com"
     private static let clientID = "750ab22aac78be1c6d4bbe584f0e3477064f646720f327c5464bc127100a1a6d"
     private static let clientSecret = "53e3822c49287190768e009a8f8e55d09041c5bf26d0ef982693f215c72d87da"
 

@@ -18,6 +18,8 @@
 		<string>https://github.com/Alamofire/Alamofire.git</string>
 		<key>71F5D8D885CFF6BD7151066D7BFF25CC48A5235E</key>
 		<string>https://github.com/MengTo/Spring.git</string>
+		<key>86DA6C6787E6CC75479786A5C773D7912EE8B341</key>
+		<string>https://github.com/b3log/symphony-ios.git</string>
 		<key>F501F6253A6AEB746530F92C6B0EA8E3AD06410B</key>
 		<string>https://github.com/Cocoanetics/DTFoundation.git</string>
 	</dict>
@@ -26,22 +28,24 @@
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>2CC69C7EFC439AC727F09E33B49EFBD1D2365CBA</key>
-		<string>../..Externals/DTCoreText</string>
+		<string>../../../dna2Externals/DTCoreText</string>
 		<key>30465C3FE587DE41DC8D7C50D84E40C5B622D54F</key>
-		<string>../..</string>
+		<string>../../../dna2</string>
 		<key>67620B5EFA902936DF04070AF595B76AB0333747</key>
-		<string>../..Externals/Alamofire</string>
+		<string>../../../dna2Externals/Alamofire</string>
 		<key>71F5D8D885CFF6BD7151066D7BFF25CC48A5235E</key>
-		<string>../..Externals/Spring</string>
+		<string>../../../dna2Externals/Spring</string>
+		<key>86DA6C6787E6CC75479786A5C773D7912EE8B341</key>
+		<string>../..</string>
 		<key>F501F6253A6AEB746530F92C6B0EA8E3AD06410B</key>
-		<string>../..Externals/DTCoreText/Externals/DTFoundation</string>
+		<string>../../../dna2Externals/DTCoreText/Externals/DTFoundation</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/b3log/symphony-ios.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>30465C3FE587DE41DC8D7C50D84E40C5B622D54F</string>
+	<string>86DA6C6787E6CC75479786A5C773D7912EE8B341</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -83,6 +87,14 @@
 			<string>71F5D8D885CFF6BD7151066D7BFF25CC48A5235E</string>
 			<key>IDESourceControlWCCName</key>
 			<string>Spring</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>86DA6C6787E6CC75479786A5C773D7912EE8B341</string>
+			<key>IDESourceControlWCCName</key>
+			<string>symphony-ios</string>
 		</dict>
 	</array>
 </dict>
