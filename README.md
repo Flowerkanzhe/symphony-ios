@@ -3,7 +3,7 @@
 ![](Screenshots/designer-news-app.jpg)
 (Forked from [DesignerNewsApp](https://github.com/MengTo/DesignerNewsApp.git), rewrote and reassigned api.)
 
-Simple [iOS client](https://itunes.apple.com/us/app/designer-news-app/id879990495?ls=1&mt=8) for [黑客派(HacPai.com)](http://hacpai.com), written in Swift.
+Simple iOS client for [黑客派(HacPai.com)](http://hacpai.com), written in Swift.
 
 ## Usage
 
