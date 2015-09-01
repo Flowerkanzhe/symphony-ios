@@ -1,0 +1,51 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "30465C3FE587DE41DC8D7C50D84E40C5B622D54F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2CC69C7EFC439AC727F09E33B49EFBD1D2365CBA" : 0,
+    "71F5D8D885CFF6BD7151066D7BFF25CC48A5235E" : 0,
+    "F501F6253A6AEB746530F92C6B0EA8E3AD06410B" : 0,
+    "30465C3FE587DE41DC8D7C50D84E40C5B622D54F" : 0,
+    "67620B5EFA902936DF04070AF595B76AB0333747" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1EB55E8E-587E-4698-8839-EC213CD1E4ED",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2CC69C7EFC439AC727F09E33B49EFBD1D2365CBA" : "HPApp\/DTCoreText",
+    "71F5D8D885CFF6BD7151066D7BFF25CC48A5235E" : "Shots-Assets\/Spring",
+    "F501F6253A6AEB746530F92C6B0EA8E3AD06410B" : "HPApp\/DTCoreText\/Externals\/DTFoundation",
+    "30465C3FE587DE41DC8D7C50D84E40C5B622D54F" : "HPApp",
+    "67620B5EFA902936DF04070AF595B76AB0333747" : "HPAppAlamofire"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HPApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 203,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "HPApp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Cocoanetics\/DTCoreText.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2CC69C7EFC439AC727F09E33B49EFBD1D2365CBA"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/MengTo\/HPApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "30465C3FE587DE41DC8D7C50D84E40C5B622D54F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Alamofire\/Alamofire.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "67620B5EFA902936DF04070AF595B76AB0333747"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/MengTo\/Spring.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "71F5D8D885CFF6BD7151066D7BFF25CC48A5235E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Cocoanetics\/DTFoundation.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F501F6253A6AEB746530F92C6B0EA8E3AD06410B"
+    }
+  ]
+}
